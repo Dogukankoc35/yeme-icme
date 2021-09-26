@@ -1,0 +1,2 @@
+# yeme-icme
+ogrenme projesi
